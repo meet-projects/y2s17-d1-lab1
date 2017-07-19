@@ -75,12 +75,12 @@ To the same form, add radio buttons to let the user pick if they are a MEET Staf
 
 ### 1. Switch one last time.
 
-### 2. Organize your document with <div>.
+### 2. Organize your document with div.
 Put the content from Lab 1 in a div with class "intro".
 Put the rest of your HTML document in its own div with class "content".
 Put your form in a div with id "form".
 
-### 3. For each <div>, give a style.
+### 3. For each div, give a style.
 Try using both color, background-color, and text-align.
 
 ### 4. Check of with an instructor or TA.
