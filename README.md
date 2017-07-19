@@ -1,6 +1,6 @@
 # First HTML page
 
-##Lab 1: Basic HTML
+## Lab 1: Basic HTML
 
 ### 1. Clone the repo
 `git clone https://github.com/meet-projects/y2s17-d1-lab1.git`
@@ -16,9 +16,9 @@ Open the file using your favorite text editor (Sublime Text, Atom, Vim...)
 - One paragraph introducing yourselves (2-5 lines)
 - One paragraph explaining what you are most excited about for this summer at MEET (at least 2 line breaks)
 
-### 4. Checkoff with an instructor or TA when you are done
+### 4. Checkoff with an instructor or TA when you are done.
 
-##Lab 2: Attributes
+## Lab 2: Attributes
 
 ### 1. Switch with your partner.
 
@@ -27,9 +27,9 @@ In the same file as Lab 1, add an image of your favorite animal. Set the width a
 
 ### 3. Add a link to the wikipedia page about that animal.
 
-#### 4. Check off with an instructor or TA when you are done. 
+### 4. Check off with an instructor or TA when you are done. 
 
-##Lab 3: Tables
+## Lab 3: Tables
 
 ### 1. Switch with your partner.
 (You get the pattern)
@@ -43,7 +43,7 @@ Remember to add a border and headings!
 
 ### 4. Check off with an instructor or a TA.
 
-##Lab 4: Lists
+## Lab 4: Lists
 
 ### 1. Switch with your partner. 
 
@@ -71,7 +71,7 @@ To the same form, add radio buttons to let the user pick if they are a MEET Staf
 
 ### 6. Check off with an instructor or a TA.
 
-##Lab 6:
+## Lab 6:
 
 ### 1. Switch one last time.
 
