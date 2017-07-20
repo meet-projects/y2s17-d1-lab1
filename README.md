@@ -25,7 +25,8 @@ Open the file using your favorite text editor (Sublime Text, Atom, Vim...)
 ### 2. Add an image.
 In the same file as Lab 1, add an image of your favorite animal. Set the width and height to 400px.
 
-### 3. Add a link to the wikipedia page about that animal.
+### 3. Add a link.
+Add a link to the wikipedia page about that animal.
 
 ### 4. Check off with an instructor or TA when you are done. 
 
@@ -55,7 +56,7 @@ List several of your favorite books, in order.
 
 ### 4. Check off with an instructor or a TA.
 
-##Lab 5: Forms
+## Lab 5: Forms
 
 ### 1. Remember to switch.
 
