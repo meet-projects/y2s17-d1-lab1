@@ -13,10 +13,12 @@ Open the file using your favorite text editor (Sublime Text, Atom, Vim...)
 - H1 heading: "Welcome to MEET Y2 Summer 2017"
 - H2 heading with the date
 - H3 heading with your and your teammate names
-- One paragraph introducing yourselves (2-5 lines)
-- One paragraph explaining what you are most excited about for this summer at MEET (at least 2 line breaks)
+- One paragraph introducing yourselves (2-5 lines), with at least two line breaks
 
 ### 4. Checkoff with an instructor or TA when you are done.
+
+### Extra: 
+Go to w3schools.com[link](https://www.w3schools.com/html/html_formatting.asp), read about HTML formatting and learn about some other tags that exist. Try using them!
 
 ## Lab 2: Attributes
 
@@ -28,7 +30,13 @@ In the same file as Lab 1, add an image of your favorite animal. Set the width a
 ### 3. Add a link.
 Add a link to the wikipedia page about that animal.
 
-### 4. Check off with an instructor or TA when you are done. 
+### 4. Use the style attribute.
+Change the color or background-color of one of at least one of your headings.
+
+### 5. Check off with an instructor or TA when you are done. 
+
+### Extra:
+On w3schools.com, read about HTML Styles or HTML Colors. Try using what you learn on your web page!
 
 ## Lab 3: Tables
 
@@ -56,6 +64,9 @@ List several of your favorite books, in order.
 
 ### 4. Check off with an instructor or a TA.
 
+### 5. Extra:
+Go to w3schools.com, read the page on HTML lists and try out some of the styles and types of lists.
+
 ## Lab 5: Forms
 
 ### 1. Remember to switch.
@@ -72,6 +83,9 @@ To the same form, add radio buttons to let the user pick if they are a MEET Staf
 
 ### 6. Check off with an instructor or a TA.
 
+### Extra:
+On your own, figure out how to use the textarea tag. Add it to your web page. 
+
 ## Lab 6:
 
 ### 1. Switch one last time.
@@ -85,6 +99,10 @@ Put your form in a div with id "form".
 Try using both color, background-color, and text-align.
 
 ### 4. Check of with an instructor or TA.
+
+### Extra: Make it pretty!
+Play around with your web page, changing styles and adding more content. 
+
 
 
 
