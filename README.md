@@ -36,7 +36,7 @@ Change the color or background-color of one of at least one of your headings.
 ### 5. Check off with an instructor or TA when you are done. 
 
 ### Extra:
-On w3schools.com, read about HTML Styles or HTML Colors. Try using what you learn on your web page!
+On w3schools.com[link](https://www.w3schools.com/html/html_colors.asp), read about HTML Colors. Add colors specified in both HEX and rgb formats to your web page!
 
 ## Lab 3: Tables
 
@@ -65,7 +65,7 @@ List several of your favorite books, in order.
 ### 4. Check off with an instructor or a TA.
 
 ### 5. Extra:
-Go to w3schools.com, read the page on HTML lists and try out some of the styles and types of lists.
+Go to w3schools.com[link](https://www.w3schools.com/html/html_lists.asp) and read the page on HTML lists. Change the type of your ordered list, the style of your unordered list, and make a description list.
 
 ## Lab 5: Forms
 
@@ -84,7 +84,7 @@ To the same form, add radio buttons to let the user pick if they are a MEET Staf
 ### 6. Check off with an instructor or a TA.
 
 ### Extra:
-On your own, figure out how to use the textarea tag. Add it to your web page. 
+On your own, figure out how to use the textarea tag. Add it to your form. 
 
 ## Lab 6:
 
@@ -101,7 +101,7 @@ Try using both color, background-color, and text-align.
 ### 4. Check of with an instructor or TA.
 
 ### Extra: Make it pretty!
-Play around with your web page, changing styles and adding more content. 
+Play around with your web page, changing styles and adding more content. Think about how you want things to be organized, and you div to do so. 
 
 
 
