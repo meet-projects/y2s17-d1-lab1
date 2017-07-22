@@ -18,7 +18,7 @@ Open the file using your favorite text editor (Sublime Text, Atom, Vim...)
 ### 4. Checkoff with an instructor or TA when you are done.
 
 ### Extra: 
-Go to w3schools.com[link](https://www.w3schools.com/html/html_formatting.asp), read about HTML formatting and learn about some other tags that exist. Try using them!
+Go to [w3schools.com](https://www.w3schools.com/html/html_formatting.asp), read about HTML formatting and learn about some other tags that exist. Try using them!
 
 ## Lab 2: Attributes
 
@@ -36,7 +36,7 @@ Change the color or background-color of one of at least one of your headings.
 ### 5. Check off with an instructor or TA when you are done. 
 
 ### Extra:
-On w3schools.com[link](https://www.w3schools.com/html/html_colors.asp), read about HTML Colors. Add colors specified in both HEX and rgb formats to your web page!
+On [w3schools.com](https://www.w3schools.com/html/html_colors.asp), read about HTML Colors. Add colors specified in both HEX and rgb formats to your web page!
 
 ## Lab 3: Tables
 
@@ -65,7 +65,7 @@ List several of your favorite books, in order.
 ### 4. Check off with an instructor or a TA.
 
 ### 5. Extra:
-Go to w3schools.com[link](https://www.w3schools.com/html/html_lists.asp) and read the page on HTML lists. Change the type of your ordered list, the style of your unordered list, and make a description list.
+Go to [w3schools.com](https://www.w3schools.com/html/html_lists.asp) and read the page on HTML lists. Change the type of your ordered list, the style of your unordered list, and make a description list.
 
 ## Lab 5: Forms
 
