@@ -3,7 +3,12 @@
 ## Lab 1: Basic HTML
 
 ### 1. Clone the repo
-`git clone https://github.com/meet-projects/y2s17-d1-lab1.git`
+```
+cd ~/Desktop/
+git clone https://github.com/meet-projects/y2s17-d1-lab1.git
+cd y2s17-d1-lab1
+subl hello.html
+```
 
 ### 2. Open hello.html
 Open the file using your favorite text editor (Sublime Text, Atom, Vim...)
