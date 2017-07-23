@@ -3,6 +3,7 @@
 ## Lab 1: Basic HTML
 
 ### 1. Clone the repo
+`cd ~/Desktop/`
 `git clone https://github.com/meet-projects/y2s17-d1-lab1.git`
 
 ### 2. Open hello.html
