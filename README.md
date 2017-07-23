@@ -6,6 +6,8 @@
 ```
 cd ~/Desktop/
 git clone https://github.com/meet-projects/y2s17-d1-lab1.git
+cd y2s17-d1-lab1
+subl hello.html
 ```
 
 ### 2. Open hello.html
