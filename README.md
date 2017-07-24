@@ -93,7 +93,14 @@ On your own, figure out how to use the textarea tag. Add it to your form.
 
 ## Lab 6:
 
-### 1. Switch one last time.
+### 1. Clone the repo
+
+```
+cd ~/Desktop/
+git clone https://github.com/meet-projects/y2s17-d1-lab1
+cd y2s17-d1-lab1
+subl hello.html
+```
 
 ### 2. Organize your document with div.
 Put the content from Lab 1 in a div with class "intro".
